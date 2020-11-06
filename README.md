@@ -25,5 +25,9 @@ loop, range, control flow
 
 ## Acceptance Criteria
 
-All core task are done
-Code works with no error
+- [x] ~~All core task are done~~
+- [x] ~~Code works with no error~~
+- [x] ~~Create a parent class~~
+- [x] ~~Create required function ensure implementing DRY~~
+- [x] ~~Implement OOP relevant pillar~~
+- [x] ~~Minimum 5 Commits~~
